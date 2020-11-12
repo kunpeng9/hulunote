@@ -5,7 +5,9 @@ Hulunote
 
 主页=https://hulunote.com/
 
-QQ 群=1143287687
+腾讯QQ 群=1143287687
+
+电报群【telegram】=https://t.me/hulunote
 
 文档=https://hulunote.com/help
 
