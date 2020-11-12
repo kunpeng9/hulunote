@@ -1,6 +1,6 @@
 # hulunote2020-11-12
 
-Quicker
+Hulunote
 这个库主要用于管理 BUG 和各种反馈。
 
 主页： 
