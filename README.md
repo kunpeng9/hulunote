@@ -1,7 +1,7 @@
 # hulunote2020-11-12
 
 Hulunote
-这个库主要用于管理 BUG 和各种反馈。
+这个库主要用于管理 BUG 和各种反馈。创建于2020-11-12
 
 主页=https://hulunote.com/
 
