@@ -32,3 +32,12 @@ Hulunote
 我在葫芦笔记里写的内容，导出吗?
 
 葫芦笔记采用通用的json数据格式，您可以随时导出您的全部笔记。未来我们还会陆续支持导出为文本 Markdown,opml,word,PDF等格式。具体操作参见导出文件。
+
+![](https://raw.githubusercontent.com/kunpeng9/PicgoPicture2020-10-18/master/20201118202743.png)
+社群的图片注意不要使用葫芦笔记的图片；
+
+目前电报群使用的图片=
+
+![](https://raw.githubusercontent.com/kunpeng9/PicgoPicture2020-10-18/master/20201118203124.png)
+
+
