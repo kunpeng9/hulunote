@@ -36,6 +36,10 @@ Hulunote
 ![](https://raw.githubusercontent.com/kunpeng9/PicgoPicture2020-10-18/master/20201118202743.png)
 社群的图片注意不要使用葫芦笔记的图片；
 
+之前使用的图片=
+
+![](https://raw.githubusercontent.com/kunpeng9/PicgoPicture2020-10-18/master/20201118203211.jpg)
+
 目前电报群使用的图片=
 
 ![](https://raw.githubusercontent.com/kunpeng9/PicgoPicture2020-10-18/master/20201118203124.png)
