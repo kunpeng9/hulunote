@@ -5,6 +5,8 @@ Hulunote
 
 主页=https://hulunote.com/
 
+更新日志【官方公开库】=https://hulunote.com/help#/hulunote/show/a9d70df8-bf18-11ea-81ad-7fe7a98122ff/a9da231c-bf18-11ea-81ad-67a602f48397
+
 腾讯QQ 群=1143287687
 
 电报群【telegram】=https://t.me/hulunote
